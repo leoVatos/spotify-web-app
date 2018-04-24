@@ -1,0 +1,8 @@
+.container{
+  /*background-color: blue;*/
+  min-height: 100%;
+}
+
+.gridItem{
+  color: white;
+}
